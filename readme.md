@@ -1,3 +1,6 @@
+![Screenshot](Screenshot_1.png)
+![Screenshot](Screenshot_3.png)
+![Screenshot](Screenshot_4.png)
 # Django To-Do List Project
 
 Это простой проект списка дел, построенный на Django. 
